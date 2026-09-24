@@ -10,7 +10,7 @@
 
 **CIC-IOT 2023 Dataset → Data Pre Processing → Data Splitting → Training (New Sample) → Decision Trees (Result 1, Result 2, Result 3) → Bagging → Prediction Output → Testing**
 
-Result :
+**Result :**
 
 | Algorithm | Accuracy | Precision | Recall | F1 |
 |:---|:---:|:---:|:---:|:---:|
@@ -23,4 +23,4 @@ The dataset used in this study can be found on https://www.unb.ca/cic/datasets/i
 
 **Experiment Material**  In our paper all experiment we are doing on our own device or platform. Device Details: Laptop IdeaPad gaming-3, Processor AMD Ryzen-7 5800H, Graphics NVIDIA GeForce GTX 1650 4GB, RAM 16GB DDR4, Disk 256GB M.2 SSD 3200MHz with 1TB Hard Disk. 
 
-**Scopus Link :** https://www.scopus.com/pages/publications/105047269892
+**📄 Scopus Link :** https://www.scopus.com/pages/publications/105047269892
