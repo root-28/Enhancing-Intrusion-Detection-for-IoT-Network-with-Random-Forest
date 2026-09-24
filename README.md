@@ -1,7 +1,7 @@
 # Enhancing-Intrusion-Detection-for-IoT-Network-with-Random-Forest
 **📄 Paper Title :** Enhancing Intrusion Detection for IoT Network with Random Forest
 
-**Conference Name :** Hinweis Fourth International Conference on Advances in Software Engineering and Information Technology (ASIT 2025)
+**Conference Name :** Hinweis Fourth International Conference on Advances in Software Engineering and Information Technology (ASIT 2025 Mumbai, India)
 
 
 **🎯 Abstract**— This investigation provides a comprehensive assessment of the effectiveness of different machine learning models in identifying cyberattacks within the CIC-IoT2023 dataset. It utilizes essential metrics such as accuracy, precision, recall, and F1 score to evaluate their performance. Out of the models examined, the RF model proves to be the most outstanding performer, achieving an impressive accuracy rate of 99.42%. The exceptional success of the Random Forest can be attributed to its utilization of an ensemble approach, enabling it to effectively handle complex data distributions, noise, and large feature sets. In comparison to other models like XG-Boost and Neural Network the RF excels in minimizing both false positives and false negatives, showcasing its strength and versatility in dealing with the intricate nature of IoT traffic. These groundbreaking findings underscore the vast potential of the RF as a dependable and resilient tool for enhancing IoT cybersecurity, providing a strong foundation for identifying and mitigating various cyber threats. The knowledge gathered from this research is crucial for creating strong defenses and choosing the best models to protect IoT ecosystems from the ever-changing array of online threats.
